@@ -1,0 +1,7 @@
+::selection {
+	background: #FE3D00; /* Safari */
+}
+
+::-moz-selection {
+	background: #FE3D00; /* Firefox */
+}
