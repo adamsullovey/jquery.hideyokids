@@ -1,8 +1,5 @@
 (function( $ ){
 
-
-	var methods = {
-
 	/**
 	* all up in your global namespace
 	*/
