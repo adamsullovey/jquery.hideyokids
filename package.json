@@ -1,0 +1,27 @@
+{
+  "name": "jquery.hideyokids",
+  "version": "0.1.0",
+  "description": "Hide children and wives and html elements",
+  "main": "src/jquery.hideyokids.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adamsullovey/jquery.hideyokids.git"
+  },
+  "keywords": [
+    "jquery",
+    "hide",
+    "show",
+    "children",
+    "siblings"
+  ],
+  "author": "Adam Sullovey",
+  "license": "MIT",
+  "readmeFilename": "readme.md",
+  "gitHead": "6c5634b67d3d995d468d29a7d3a7ae5fb9286450",
+  "bugs": {
+    "url": "https://github.com/adamsullovey/jquery.hideyokids/issues"
+  }
+}
