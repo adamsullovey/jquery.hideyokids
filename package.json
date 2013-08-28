@@ -10,13 +10,14 @@
     "type": "git",
     "url": "https://github.com/adamsullovey/jquery.hideyokids.git"
   },
-
-  "devDependencies" : {
-      "grunt" : "latest",
-      "grunt-contrib-uglify":"latest",
-      "grunt-jquerymanifest":"latest"
-    },
-
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-uglify": "latest",
+    "grunt-jquerymanifest": "latest",
+    "grunt-contrib-qunit": "~0.2.2",
+    "grunt-lib-phantomjs": "latest"
+  },
+  "dependencies": {},
   "keywords": [
     "jquery",
     "hide",
@@ -30,5 +31,8 @@
   "gitHead": "6c5634b67d3d995d468d29a7d3a7ae5fb9286450",
   "bugs": {
     "url": "https://github.com/adamsullovey/jquery.hideyokids/issues"
+  },
+  "scripts":{
+    "test":"grunt test"
   }
 }
